@@ -1,14 +1,24 @@
 {
   "name": "client",
   "version": "0.1.0",
+  "homepage": "https://chat.yobot.ogilvydigital.net",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "ajv": "^8.12.0",
+    "ajv-keywords": "^5.1.0",
+    "axios": "^1.4.0",
+    "crypto-js": "^4.1.1",
+    "framer-motion": "^10.12.16",
+    "nth-check": "^2.1.1",
     "react": "^18.2.0",
+    "react-cookie": "^4.1.1",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "socket.io-client": "^4.6.1",
+    "typescript": "^5.0.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
