@@ -1,6 +1,14 @@
 <h1 align="center">Chat Widget</h1>
 <div align="center">
-![HTML](https://img.shields.io/badge/HTML-e54b20?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white&color=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E&)  ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io) ![React.js](https://img.shields.io/badge/React.js-%23169fca?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5fa04f?style=flat&logo=node.js&logoColor=white&labelColor=#323330) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flate&logo=express&logoColor=%2361DAFB)
+    
+![HTML](https://img.shields.io/badge/HTML-e54b20?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white&color=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E&)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io)
+![React.js](https://img.shields.io/badge/React.js-%23169fca?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5fa04f?style=flat&logo=node.js&logoColor=white&labelColor=#323330)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flate&logo=express&logoColor=%2361DAFB)
+    
 </div>
 ## Description
 Real-time chatbot widget with script-based deployment for multiple sites, built using React.js, Node.js, and Socket.io.
